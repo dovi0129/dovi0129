@@ -43,7 +43,7 @@
 ## 🚀 Featured Projects
 - **PaperRL** — Three-Stage RL for Autonomous Process Control in Papermaking  
   <sub>Pareto balancing: production · energy · quality. Hybrid digital twin + reward shaping.</sub>  
-- **Little Sentinels** — Strawberry Ripeness Classifier + Harvest Aid  
+- **strawberryDection** — Strawberry Ripeness Classifier + Harvest Aid  
 - **Indy7 + OpenMANIPULATOR-X Stack** — Jetson Orin Nano · RealSense D455 · TCP/IP (IndyDCP2) · UART TTL  
 
 ---
