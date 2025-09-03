@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Jetson-76B900.svg?logo=nvidia&logoColor=white" />
   <!-- 툴 -->
   <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
