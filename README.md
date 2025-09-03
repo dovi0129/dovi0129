@@ -43,21 +43,13 @@
 ## 🚀 Featured Projects
 - **PaperRL** — Three-Stage RL for Autonomous Process Control in Papermaking  
   <sub>Pareto balancing: production · energy · quality. Hybrid digital twin + reward shaping.</sub>  
-  Repo: [`<YOUR_REPO_LINK>`]
-- **Little Sentinels** — Strawberry Ripeness Classifier + AR Harvest Aid (Mobile)  
-  Repo: [`<YOUR_REPO_LINK>`]
+- **Little Sentinels** — Strawberry Ripeness Classifier + Harvest Aid  
 - **Indy7 + OpenMANIPULATOR-X Stack** — Jetson Orin Nano · RealSense D455 · TCP/IP (IndyDCP2) · UART TTL  
-  Repo: [`<YOUR_REPO_LINK>`]
-- **HVAC Battery RL** — Demand Shaping & Cost Minimization with RL  
-  Repo: [`<YOUR_REPO_LINK>`]
-
-> 더 많은 프로젝트는 **Pinned Repositories** 를 확인하세요.
 
 ---
 
 ## 📝 Publications & Writing
 - *A Three-Stage Reinforcement Learning Pipeline for Autonomous Process Control in the Papermaking Industry* — **AAAI 2026 AISI** (in preparation/under review)  
-- Notes & posts: [`<YOUR_BLOG_OR_NOTION_LINK>`]
 
 ---
 
