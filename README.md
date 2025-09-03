@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<h1 align="center">Hi, I'm Minu Baek (백민우) 👋</h1>
+<h1 align="center">Hi, I'm Minu Baek 👋</h1>
 <p align="center">
   Deep RL • Industrial AI • Applied Optimization
 </p>
