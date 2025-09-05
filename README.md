@@ -10,7 +10,7 @@
 - 산업/제조 공정에 **강화학습(RL)** 과 **디지털 트윈**을 적용하는 데 관심이 많습니다.  
   - **PaperRL**: 제지 공정 자율 제어를 위한 3단계 RL 파이프라인(에너지·품질·생산 균형, 하이브리드 디지털 트윈) — *AAAI 2026 AISI 트랙 제출 작업 진행 중*  
   - **strawberryDection**: 딸기 **숙도 분류** + **수확 보조** 
-  - **Indy7 + OpenMANIPULATOR-X** 통신/제어 스택 (Jetson Orin Nano, RealSense D455)  
+  - **Indy7 + OpenMANIPULATOR-X** 통신/제어 (Jetson Orin Nano, RealSense D455)  
 
 > I build practical AI systems that control messy, real-world processes. I like clean baselines, honest evals, and reproducible code.
 
