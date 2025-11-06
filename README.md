@@ -13,13 +13,6 @@
 ## Interests
 - 산업/제조 공정에 강화학습과 디지털 트윈을 적용하는 연구 및 시스템 개발
   
-## Projects 
-- PaperRL: 제지 공정 자율 제어 RL 파이프라인 개발  
-  - 현업 공정 데이터를 활용한 하이브리드 디지털 트윈 + 안정화 RL 연구
-- strawberryDetection: 딸기 숙도 분류 및 수확 보조 시스템
-- Indy7 + OpenMANIPULATOR-X 통신 및 제어  
-  - Jetson Orin Nano, RealSense D455 기반 로봇 제어
-
 ---
 
 ## Tech Stack
