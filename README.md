@@ -10,7 +10,7 @@
 - 한밭대학교 4학년 재학 
 - [Eco AI Lab](https://sites.google.com/view/ecoai/introduction?authuser=0) 소속 
 
-##Interests
+## Interests
 - 산업/제조 공정에 강화학습과 디지털 트윈을 적용하는 연구 및 시스템 개발
   
 ## Projects 
