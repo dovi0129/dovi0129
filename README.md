@@ -19,7 +19,7 @@
 - **강화학습 기반 제지 공정 자율 운전: 초기 안정화 가속화 전략**  
   *2025 한국통신학회 추계종합학술발표회 (KICS Fall Conference 2025)*
   
-- **실시간 제지공정 운영 효율화를 위한 LLM 과 RAG 기반 대화형 AI 어시스턴트 설계**
+- **실시간 제지공정 운영 효율화를 위한 LLM 과 RAG 기반 대화형 AI 어시스턴트 설계**  
   *2025 한국통신학회 추계종합학술발표회 (KICS Fall Conference 2025)*
   
 - **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
