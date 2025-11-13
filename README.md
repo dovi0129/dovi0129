@@ -15,6 +15,15 @@
   
 ---
 
+## Publications & Presentations
+- **강화학습 기반 제지 공정 자율 운전: 초기 안정화 가속화 전략**  
+  *2025 한국통신학회 추계종합학술발표회 (KICS Fall Conference 2025)*  
+
+- **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
+  *AAAI 2025 Student Abstract — Accepted*
+
+--- 
+
 ## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white" />
