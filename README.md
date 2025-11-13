@@ -21,9 +21,17 @@
   
 - **실시간 제지공정 운영 효율화를 위한 LLM 과 RAG 기반 대화형 AI 어시스턴트 설계**  
   *2025 한국통신학회 추계종합학술발표회 (KICS Fall Conference 2025)*
-  
+
 - **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
   *AAAI 2025 Student Abstract — Accepted*
+  
+- **실시간 제지공정 운영 효율화를 위한 LLM · RAG 기반 대화형 AI 어시스턴트 설계**  
+  *2025 한국통신학회 추계종합학술발표회 — Capstone Poster Session (KICS 2025)*  
+  - 제지 공정 LOT 변동성과 품질 편차 문제 대응을 위한 **LLM 기반 실시간 운영 지원 시스템** 설계  
+  - RAG 기반 문서 검색 및 실시간 질의응답 시스템 구축  
+  - 공정 이상 감지·원인 진단·대응 시나리오 제안 기능 포함  
+  - React + FastAPI 기반 인터페이스 및 서비스 구성  
+  - 향후 PPO 기반 자율 운전 에이전트와 연동 예정
 
 --- 
 
