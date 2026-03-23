@@ -4,7 +4,7 @@
   Reinforcement Learning · Industrial AI · Robotics
 </p>
 <p align="center">
-  Master's Student in Computer Engineering at Hanbat National University Graduate School of Software Convergence
+  M.S. Student in the Department of Computer Engineering, Graduate School of Software Convergence, Hanbat National University
   <br />
   Member of <a href="https://sites.google.com/view/ecoai/introduction?authuser=0">Eco AI Lab</a>
 </p>
