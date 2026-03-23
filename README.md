@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-- 한밭대학교 4학년 재학 
+- 국립한밭대학교 소프트웨어융합대학원 컴퓨터공학과 석사과정 1학년
 - [Eco AI Lab](https://sites.google.com/view/ecoai/introduction?authuser=0) 소속 
 
 ## Interests
@@ -15,24 +15,20 @@
   
 ---
 
-## Publications & Presentations
+## Selected Publications & Presentations
 ### 2026
 - **제지공정 강화학습 안전제어를 위한 데이터 기반 운전 영역 정량화 및 품질 영향 분석**  
-  *2026 동계 한국통신학회 학술대회 — Poster Session (2026.02.04 ~ 2026.02.06)*
+  *2026 동계 한국통신학회 학술대회, 포스터 세션 (2026.02.04 ~ 2026.02.06)*
 
 ### 2025
 - **강화학습 기반 제지 공정 자율 운전: 초기 안정화 가속화 전략**  
-  *2025 한국통신학회 추계종합학술발표회 — Emerging Researcher Session*
+  *2025 한국통신학회 추계종합학술발표회, 신진연구자 세션*
 
 - **실시간 제지공정 운영 효율화를 위한 LLM 과 RAG 기반 대화형 AI 어시스턴트 설계**  
   *2025 한국통신학회 추계종합학술발표회*
 
 - **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
   *AAAI 2025 Student Abstract — Accepted*
-
-### Academic Activities
-- **AAAI 2025 Conference Participation**  
-  *2026.01.21 ~ 2026.01.23*
 
 --- 
 
@@ -66,6 +62,7 @@
 | 기간 | 활동 | 내용 |
 |---|---|---|
 | 2026.02.27 | 데이터분석 준전문가(ADsP) | 합격 |
+| 2026.02.04 ~ 2026.02.06 | 2026 동계 한국통신학회 학술대회 | 논문 등재 및 포스터 발표 (`제지공정 강화학습 안전제어를 위한 데이터 기반 운전 영역 정량화 및 품질 영향 분석`) |
 | 2026.01.21 ~ 2026.01.23 | AAAI 2025 | 학회 참가 |
 | 2026 | 통신학회 아이디어 경진대회 참가 | RL 기반 상황 인지형 적응형 시맨틱 전송 시스템 |
 | 2025.11.20 | 한국통신학회 추계종합학술발표회 — 학부생 캡스톤디자인 경진대회 **우수상** | 실시간 공정과정에서의 생성형 AI 기반 모니터링 서비스 |
