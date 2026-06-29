@@ -24,12 +24,16 @@
 ---
 
 ## 🎯 Research Focus
+My research centers on **safe and trustworthy reinforcement learning for industrial process control**, organized around one question: *when* can a control policy be trusted from real closed-loop operating logs? I combine identifiability and causal diagnosis, physics-grounded digital twins, and uncertainty-calibrated safety layers — deploying RL only where the data supports it, and abstaining when it does not.
+
 - **Safe and offline reinforcement learning** for autonomous industrial process control
-- **Identifiability and causal diagnosis** for closed-loop industrial logs — assessing when offline policy learning and digital-twin surrogates can be trusted
-- **Hybrid, physics-grounded digital twins** for sample-efficient and safe policy learning in manufacturing
+- **Identifiability and causal diagnosis** for closed-loop industrial logs — deciding when offline policy learning is reliable, and abstaining when action effects are not identifiable
+- **Hybrid, physics-grounded digital twins** for sample-efficient, safe policy learning (validated on a twin built from 11 months of papermaking operation across 687 production lots)
 - **Uncertainty quantification and conformal prediction** for surrogate reliability and coverage guarantees
 - **Tail-risk-aware, capacity-constrained control** for safety-critical, rare-failure settings
 - **LLM- and RAG-based operator support systems** for real-time process monitoring
+
+**Keywords:** `Offline RL` · `Safe RL` · `Causal Identifiability` · `Closed-Loop Confounding` · `Digital Twin` · `Conformal Prediction` · `Tail-Risk` · `Industrial Process Control`
 
 ---
 
