@@ -41,14 +41,18 @@ My research centers on **safe and trustworthy reinforcement learning for industr
 
 **Journal & International Venues**
 - **A Three-Stage Reinforcement Learning Pipeline for Autonomous Process Control in the Papermaking Industry**  
-  Minu Baek, Sangkeum Lee  
-  *IEEE Transactions on Industrial Informatics (TII) — Accepted, 2026*
+  **Minu Baek**, Sangkeum Lee  
+  *IEEE Transactions on Industrial Informatics (TII), 2026* · [DOI](https://doi.org/10.1109/TII.2026.3682018)
+
+- **Carbon-Conformal Manufacturing: Conformal Prediction-Guided Carbon Emission Optimization in Paper-Mill Energy Systems**  
+  Gihun Gil, **Minu Baek**, Jio Yoo, Seoyoung Lee, Yeojin Jang, Yoonmee Doh, Jinyoung Choi, Sangkeum Lee  
+  *Applied Energy, Vol. 421, Art. no. 128200, 2026* · [DOI](https://doi.org/10.1016/j.apenergy.2026.128200)
 
 - **Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning**  
   *UDM Workshop @ KDD 2026, Jeju, Republic of Korea — Accepted*
 
 - **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
-  *AAAI 2026 Student Abstract — Accepted*
+  *AAAI 2026 Student Abstract* · [DOI](https://doi.org/10.1609/aaai.v40i48.42264)
 
 **Domestic Conferences (한국통신학회, KICS)**
 - **Conformal Prediction을 이용한 제지공정 수분 Surrogate의 보장률 검증: 영역별 불균형과 Mondrian CP 기반 해소**  
