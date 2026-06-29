@@ -114,12 +114,15 @@
   딥러닝 기반 딸기 숙성 분류 및 수확 자동화 로봇
 - **2025.07.07** 산학협력 프로젝트 참여  
   자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화
-- **2024.07.08 ~ 2024.07.12** 소프트웨어 중심대학 SW특강  
-  코딩테스트 심화 및 알고리즘 교육
-- **2024.01.08 ~ 2024.01.12** 소프트웨어 중심대학 SW특강  
-  정보보안 특강 및 정보보안기사 대비 교육
-- **2024.01.22 ~ 2024.01.26** 소프트웨어 중심대학 SW특강  
-  코딩 역량 강화 및 알고리즘 교육
+- **2024.01 ~ 2024.07** 소프트웨어 중심대학 SW특강 3회 (코딩테스트·알고리즘·정보보안)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dovi0129&theme=default&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovi0129&layout=compact&theme=default" height="165" alt="Top Languages" />
+</p>
 
 ---
 
