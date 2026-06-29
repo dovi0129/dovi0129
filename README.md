@@ -22,13 +22,32 @@
 ---
 
 ## Research Focus
-- Safe reinforcement learning and offline RL for industrial process control
-- Digital twin modeling for manufacturing system optimization
-- LLM and RAG-based operator support systems for real-time process monitoring
+- **Safe and offline reinforcement learning** for autonomous industrial process control
+- **Identifiability and causal diagnosis** for closed-loop industrial logs — assessing when offline policy learning and digital-twin surrogates can be trusted
+- **Hybrid, physics-grounded digital twins** for sample-efficient and safe policy learning in manufacturing
+- **Uncertainty quantification and conformal prediction** for surrogate reliability and coverage guarantees
+- **Tail-risk-aware, capacity-constrained control** for safety-critical, rare-failure settings
+- **LLM- and RAG-based operator support systems** for real-time process monitoring
 
 ---
 
 ## Selected Publications & Presentations
+
+**Journal & International Venues**
+- **A Three-Stage Reinforcement Learning Pipeline for Autonomous Process Control in the Papermaking Industry**  
+  Minu Baek, Sangkeum Lee  
+  *IEEE Transactions on Industrial Informatics (TII) — Accepted, 2026*
+
+- **Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning**  
+  *UDM Workshop @ KDD 2026, Jeju, Republic of Korea — Accepted*
+
+- **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
+  *AAAI 2025 Student Abstract — Accepted*
+
+**Domestic Conferences (한국통신학회, KICS)**
+- **Conformal Prediction을 이용한 제지공정 수분 Surrogate의 보장률 검증: 영역별 불균형과 Mondrian CP 기반 해소**  
+  *2026 한국통신학회 하계종합학술발표회, 포스터 발표 (2026.06.17 ~ 2026.06.19, 제주)*
+
 - **제지공정 강화학습 안전제어를 위한 데이터 기반 운전 영역 정량화 및 품질 영향 분석**  
   *2026 동계 한국통신학회 학술대회, 포스터 세션 (2026.02.04 ~ 2026.02.06)*
 
@@ -37,9 +56,6 @@
 
 - **실시간 제지공정 운영 효율화를 위한 LLM 과 RAG 기반 대화형 AI 어시스턴트 설계**  
   *2025 한국통신학회 추계종합학술발표회, 포스터 발표*
-
-- **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries**  
-  *AAAI 2025 Student Abstract — Accepted*
 
 ---
 
