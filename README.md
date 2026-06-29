@@ -61,7 +61,8 @@
 
 ## Selected Projects
 - **PaperRL**  
-  Hybrid digital twin and reinforcement learning pipeline for manufacturing process control.
+  Hybrid digital twin and reinforcement learning pipeline for autonomous papermaking process control.  
+  Published in *IEEE Transactions on Industrial Informatics (TII)*, 2026.
 
 - **Industrial Monitoring Assistant**  
   React and FastAPI-based operator support system for document retrieval, real-time Q&A, and process monitoring.
