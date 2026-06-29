@@ -118,14 +118,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dovi0129&theme=default&hide_border=true" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovi0129&layout=compact&theme=default" height="165" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 - Email: `bmw5779@o365.hanbat.ac.kr`
 - Google Scholar: [scholar.google.com/citations?user=ATNX478AAAAJ](https://scholar.google.com/citations?user=ATNX478AAAAJ&hl=ko)
