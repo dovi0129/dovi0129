@@ -1,1 +1,190 @@
-PCEtLSBIZWFkZXIgLS0+CjxoMSBhbGlnbj0iY2VudGVyIj5NaW51IEJhZWsgKOuwseuvvOyasCk8L2gxPgo8cCBhbGlnbj0iY2VudGVyIj4KICBTYWZlIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmcgwrcgSW5kdXN0cmlhbCBBSSDCtyBSb2JvdGljcwo8L3A+CjxwIGFsaWduPSJjZW50ZXIiPgogIE0uUy4gU3R1ZGVudCBpbiB0aGUgRGVwYXJ0bWVudCBvZiBDb21wdXRlciBFbmdpbmVlcmluZywgR3JhZHVhdGUgU2Nob29sIG9mIFNvZnR3YXJlIENvbnZlcmdlbmNlLCBIYW5iYXQgTmF0aW9uYWwgVW5pdmVyc2l0eQogIDxiciAvPgogIE1lbWJlciBvZiA8YSBocmVmPSJodHRwczovL3NpdGVzLmdvb2dsZS5jb20vdmlldy9lY29haS9pbnRyb2R1Y3Rpb24/YXV0aHVzZXI9MCI+RWNvIEFJIExhYjwvYT4KPC9wPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL3NjaG9sYXIuZ29vZ2xlLmNvbS9jaXRhdGlvbnM/dXNlcj1BVE5YNDc4QUFBQUomaGw9a28iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dvb2dsZSUyMFNjaG9sYXItNDI4NUY0P2xvZ289Z29vZ2xlc2Nob2xhciZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iR29vZ2xlIFNjaG9sYXIiIC8+PC9hPgogIDxhIGhyZWY9Im1haWx0bzpibXc1Nzc5QG8zNjUuaGFuYmF0LmFjLmtyIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9FbWFpbC0wMDc4RDQiIGFsdD0iRW1haWwiIC8+PC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9kb3ZpMDEyOSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViLTE4MTcxNz9sb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iR2l0SHViIiAvPjwvYT4KPC9wPgoKLS0tCgojIyDwn5GLIEFib3V0IE1lCi0g6rWt66a97ZWc67Ct64yA7ZWZ6rWQIOyGjO2UhO2KuOybqOyWtOycte2VqeuMgO2VmeybkCDsu7Ttk6jthLDqs7XtlZnqs7wg7ISd7IKs6rO87KCVIOyerO2VmQotIFtFY28gQUkgTGFiXShodHRwczovL3NpdGVzLmdvb2dsZS5jb20vdmlldy9lY29haS9pbnRyb2R1Y3Rpb24/YXV0aHVzZXI9MCkg7IaM7IaNCi0g6rCV7ZmU7ZWZ7Iq16rO8IOuUlOyngO2EuCDtirjsnIgg6riw67CY7J2YIOyCsOyXhSDqs7XsoJUg7J6Q7Jyo7ZmUIOyXsOq1rCDsiJjtlokKCi0tLQoKIyMg8J+OryBSZXNlYXJjaCBGb2N1cwpNeSByZXNlYXJjaCBjZW50ZXJzIG9uICoqc2FmZSBhbmQgdHJ1c3R3b3J0aHkgcmVpbmZvcmNlbWVudCBsZWFybmluZyBmb3IgaW5kdXN0cmlhbCBwcm9jZXNzIGNvbnRyb2wqKiwgb3JnYW5pemVkIGFyb3VuZCBvbmUgcXVlc3Rpb246ICp3aGVuKiBjYW4gYSBjb250cm9sIHBvbGljeSBiZSB0cnVzdGVkIGZyb20gcmVhbCBjbG9zZWQtbG9vcCBvcGVyYXRpbmcgbG9ncz8gSSBjb21iaW5lIGlkZW50aWZpYWJpbGl0eSBhbmQgY2F1c2FsIGRpYWdub3NpcywgcGh5c2ljcy1ncm91bmRlZCBkaWdpdGFsIHR3aW5zLCBhbmQgdW5jZXJ0YWludHktY2FsaWJyYXRlZCBzYWZldHkgbGF5ZXJzIOKAlCBkZXBsb3lpbmcgUkwgb25seSB3aGVyZSB0aGUgZGF0YSBzdXBwb3J0cyBpdCwgYW5kIGFic3RhaW5pbmcgd2hlbiBpdCBkb2VzIG5vdC4KCi0gKipTYWZlIGFuZCBvZmZsaW5lIHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcqKiBmb3IgYXV0b25vbW91cyBpbmR1c3RyaWFsIHByb2Nlc3MgY29udHJvbAotICoqSWRlbnRpZmlhYmlsaXR5IGFuZCBjYXVzYWwgZGlhZ25vc2lzKiogZm9yIGNsb3NlZC1sb29wIGluZHVzdHJpYWwgbG9ncyDigJQgZGVjaWRpbmcgd2hlbiBvZmZsaW5lIHBvbGljeSBsZWFybmluZyBpcyByZWxpYWJsZSwgYW5kIGFic3RhaW5pbmcgd2hlbiBhY3Rpb24gZWZmZWN0cyBhcmUgbm90IGlkZW50aWZpYWJsZQotICoqSHlicmlkLCBwaHlzaWNzLWdyb3VuZGVkIGRpZ2l0YWwgdHdpbnMqKiBmb3Igc2FtcGxlLWVmZmljaWVudCwgc2FmZSBwb2xpY3kgbGVhcm5pbmcgKHZhbGlkYXRlZCBvbiBhIHR3aW4gYnVpbHQgZnJvbSAxMSBtb250aHMgb2YgcGFwZXJtYWtpbmcgb3BlcmF0aW9uIGFjcm9zcyA2ODcgcHJvZHVjdGlvbiBsb3RzKQotICoqVW5jZXJ0YWludHkgcXVhbnRpZmljYXRpb24gYW5kIGNvbmZvcm1hbCBwcmVkaWN0aW9uKiogZm9yIHN1cnJvZ2F0ZSByZWxpYWJpbGl0eSBhbmQgY292ZXJhZ2UgZ3VhcmFudGVlcwotICoqVGFpbC1yaXNrLWF3YXJlLCBjYXBhY2l0eS1jb25zdHJhaW5lZCBjb250cm9sKiogZm9yIHNhZmV0eS1jcml0aWNhbCwgcmFyZS1mYWlsdXJlIHNldHRpbmdzCi0gKipMTE0tIGFuZCBSQUctYmFzZWQgb3BlcmF0b3Igc3VwcG9ydCBzeXN0ZW1zKiogZm9yIHJlYWwtdGltZSBwcm9jZXNzIG1vbml0b3JpbmcKCioqS2V5d29yZHM6KiogYE9mZmxpbmUgUkxgIMK3IGBTYWZlIFJMYCDCtyBgQ2F1c2FsIElkZW50aWZpYWJpbGl0eWAgwrcgYENsb3NlZC1Mb29wIENvbmZvdW5kaW5nYCDCtyBgRGlnaXRhbCBUd2luYCDCtyBgQ29uZm9ybWFsIFByZWRpY3Rpb25gIMK3IGBUYWlsLVJpc2tgIMK3IGBJbmR1c3RyaWFsIFByb2Nlc3MgQ29udHJvbGAKCi0tLQoKIyMg8J+ThCBTZWxlY3RlZCBQdWJsaWNhdGlvbnMgJiBQcmVzZW50YXRpb25zCgoqKkpvdXJuYWwgJiBJbnRlcm5hdGlvbmFsIFZlbnVlcyoqCgotICoqQ2FyYm9uLUNvbmZvcm1hbCBNYW51ZmFjdHVyaW5nOiBDb25mb3JtYWwgUHJlZGljdGlvbi1HdWlkZWQgQ2FyYm9uIEVtaXNzaW9uIE9wdGltaXphdGlvbiBpbiBQYXBlci1NaWxsIEVuZXJneSBTeXN0ZW1zKiogIAogIEdpaHVuIEdpbCwgKipNaW51IEJhZWsqKiwgSmlvIFlvbywgU2VveW91bmcgTGVlLCBZZW9qaW4gSmFuZywgWW9vbm1lZSBEb2gsIEppbnlvdW5nIENob2ksIFNhbmdrZXVtIExlZSAgCiAgKkFwcGxpZWQgRW5lcmd5LCBWb2wuIDQyMSwgQXJ0LiBuby4gMTI4MjAwLCAyMDI2KiDCtyBbRE9JXShodHRwczovL2RvaS5vcmcvMTAuMTAxNi9qLmFwZW5lcmd5LjIwMjYuMTI4MjAwKQoKLSAqKk11bHRpLVN0YWdlIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmcgZm9yIFJvYnVzdCBDaGFyZ2luZyBvZiBRdWFudHVtIEJhdHRlcmllcyAoU3R1ZGVudCBBYnN0cmFjdCkqKiAgCiAgQmVvbWRvIFBhcmssIEh5ZW9uc2VvayBKYW5nLCBKdW5zZW9uZyBQYXJrLCAqKk1pbnUgQmFlayoqLCBHaWh1biBHaWwsIE1pbnN1bmcgSnVuZywgV29vaHllb24gS3dvbiwgSGFyaW4gSmFuZywgWWVvamluIEphbmcsIEhvb24gSmVvbmcsIFRhZXdvb2sgSGVvIGFuZCBTYW5na2V1bSBMZWUgIAogICpBQUFJIDIwMjYgU3R1ZGVudCBBYnN0cmFjdCogwrcgW0RPSV0oaHR0cHM6Ly9kb2kub3JnLzEwLjE2MDkvYWFhaS52NDBpNDguNDIyNjQpCgotICoqREVQTE9ZLVJMOiBBY3RpdmUgQm91bmRhcnkgRGlzY292ZXJ5IGFuZCBDb25zZXJ2YXRpdmUgQ2VydGlmaWNhdGlvbiBmb3IgRGVwbG95YWJsZSBSZWluZm9yY2VtZW50IExlYXJuaW5nIGluIFNhZmV0eS1Dcml0aWNhbCBDb250aW51b3VzIFByb2Nlc3NlcyoqICAKICBZZW9qaW4gSmFuZywgKipNaW51IEJhZWsqKiwgR2lodW4gR2lsLCBNaW5zdW5nIEp1bmcsIEJlb21kbyBQYXJrLCBXb29oeWVvbiBLd29uLCBIeWVvbnNlb2sgSmFuZywgSnVuc2VvbmcgUGFyaywgTmVoYSBTZW5nYXIsIEFuZHJlcyBTYXVyZXosIFNhbmdrZXVtIExlZSAgCiAgKklKQ0FJLUVDQUkgMjAyNiwgQUk0VGVjaCBTcGVjaWFsIFRyYWNrKiDCtyBbUHJvY2VlZGluZ3NdKGh0dHBzOi8vd3d3LmlqY2FpLm9yZy9wcm9jZWVkaW5ncy8yMDI2LzcxOCkKCi0gKipMZXNzIENhbiBCZSBTYWZlcjogVGFpbC1SaXNrIFJlZHVjdGlvbiB2aWEgQ2FwYWNpdHktQ29uc3RyYWluZWQgUG9saWNpZXMgaW4gSW5kdXN0cmlhbCBSZWluZm9yY2VtZW50IExlYXJuaW5nKiogIAogICoqTWludSBCYWVrKiosIEdpaHVuIEdpbCwgWWVvamluIEphbmcsIEJ5b3VuZ2hvb24gU29uLCBCZW9tZG8gUGFyaywgTWluc3VuZyBKdW5nLCBKdW5zZW9uZyBQYXJrLCBIeWVvbnNlb2sgSmFuZyBhbmQgU2FuZ2tldW0gTGVlICAKICAqVURNIFdvcmtzaG9wIEAgS0REIDIwMjYgwrcgT3JhbCBQcmVzZW50YXRpb24qIMK3IFtQcm9ncmFtXShodHRwczovL3NpdGVzLmdvb2dsZS5jb20vdmlldy91ZG1rZGQyNi9ob21lKQoKLSAqKkxMTSBQcmlvcnMgZm9yIFNhbXBsZS1FZmZpY2llbnQgSW5kdXN0cmlhbCBDb250cm9sIGluIERpZ2l0YWwtVHdpbiBTaW11bGF0aW9uKiogIAogIEdpaHVuIEdpbCwgKipNaW51IEJhZWsqKiwgWWVvamluIEphbmcsIEJ5b3VuZ2hvb24gU29uLCBKdW5zZW9uZyBQYXJrLCBCZW9tZG8gUGFyaywgSHllb25zZW9rIEphbmcsIE1pbnN1bmcgSnVuZyBhbmQgU2FuZ2tldW0gTGVlICAKICAqQUlEYXRhU2NpQEtERCAyMDI2IMK3IEFjY2VwdGVkLCBQb3N0ZXIqIMK3IFtQYXBlcl0oaHR0cHM6Ly91c2FpbC1oa3VzdC5naXRodWIuaW8vYWlkYXRhc2NpL2Fzc2V0cy9wYXBlcnMvbGxtLXByaW9ycy1pbmR1c3RyaWFsLWNvbnRyb2wucGRmKQoKLSAqKlN0cnVjdHVyZWQgRVhQTEFJTiBGZWVkYmFjayBJbXByb3ZlcyBTUUwgR2VuZXJhdGlvbiB3aXRoIGEgNEIgU0xNIG9uIEluZHVzdHJpYWwgVGltZS1TZXJpZXMgRGF0YSoqICAKICBCeW91bmdob29uIFNvbiwgTWluc3VuZyBKdW5nLCBIeWVvbnNlb2sgSmFuZywgQmVvbWRvIFBhcmssIEdpaHVuIEdpbCwgSnVuc2VvbmcgUGFyaywgKipNaW51IEJhZWsqKiwgWWVvamluIEphbmcgYW5kIFNhbmdrZXVtIExlZSAgCiAgKkFJRGF0YVNjaUBLREQgMjAyNiDCtyBBY2NlcHRlZCwgUG9zdGVyKiDCtyBbUGFwZXJdKGh0dHBzOi8vdXNhaWwtaGt1c3QuZ2l0aHViLmlvL2FpZGF0YXNjaS9hc3NldHMvcGFwZXJzL3N0cnVjdHVyZWQtZXhwbGFpbi1mZWVkYmFjay5wZGYpCgotICoqV2hlbiBDdXJyaWN1bHVtIEJlY29tZXMgQ3JpdGljYWw6IEF1dG9tYXRlZCBQaHlzaWNzLUdyb3VuZGVkIFRhc2sgUHJvZ3Jlc3Npb25zIGZvciBPcGVuIFF1YW50dW0gQ29udHJvbCoqICAKICBKdW5zZW9uZyBQYXJrLCBIeWVvbnNlb2sgSmFuZywgQmVvbWRvIFBhcmssIFllb2ppbiBKYW5nLCAqKk1pbnUgQmFlayoqLCBHaWh1biBHaWwsIEJ5b3VuZ2hvb24gU29uLCBNaW5zdW5nIEp1bmcgYW5kIFNhbmdrZXVtIExlZSAgCiAgKkdMT1cgV29ya3Nob3AgQCBJSkNBSSAyMDI2IMK3IFBvc3RlciogwrcgW0xhYiBQdWJsaWNhdGlvbnNdKGh0dHBzOi8vZWNvYWlsYWIuZ2l0aHViLmlvL3B1YmxpY2F0aW9ucy8pCgoqKkRvbWVzdGljIENvbmZlcmVuY2VzIChLSUNTIMK3IElFSUUpKioKCi0gKirqsJXtmZTtlZnsirUg6riw67CYIO2ctOuouOuFuOydtOuTnCDroZzrtIcg7IaQ7J2YIOygnOyWtOulvCDsnITtlZwg7ZWZ7Iq1IOynhO2WiSDquLDrsJggTExNIOyggeydkeyggSDqsJzsnoUg7Iqk7LyA7KSE66eBKiogIAogIFNhbmdob29uIENob28sIEppaHdhbiBKZW9uLCBHaXlvbmcgTmFtLCAqKk1pbnUgQmFlayoqIGFuZCBTYW5na2V1bSBMZWUgIAogICrrjIDtlZzsoITsnpDqs7XtlZntmowgMjAyNiDtlZjqs4Qgwrcg7Y+s7Iqk7YSwKgoKLSAqKkxMTSDsnZjsgqzqsrDsoJXqs7wg6rCV7ZmU7ZWZ7Iq1IOq4sOuwmCBBY3Rpb24gRmlsdGVyaW5n7J2EIO2ZnOyaqe2VnCDsoJzsp4Dqs7XsoJUg7J207IOBIOuMgOydkSDtlITroIjsnoTsm4ztgawqKiAgCiAgU2VveW91bmcgTGVlLCBHaWh1biBHaWwsIFllb2ppbiBKYW5nLCAqKk1pbnUgQmFlayoqLCBKaW8gWW9vIGFuZCBTYW5na2V1bSBMZWUgIAogICrrjIDtlZzsoITsnpDqs7XtlZntmowgMjAyNiDtlZjqs4Qgwrcg7Y+s7Iqk7YSwKgoKLSAqKkNvbmZvcm1hbCBQcmVkaWN0aW9u7J2EIOydtOyaqe2VnCDsoJzsp4Dqs7XsoJUg7IiY67aEIFN1cnJvZ2F0ZeydmCDrs7TsnqXrpaAg6rKA7KadOiDsmIHsl63rs4Qg67aI6reg7ZiV6rO8IE1vbmRyaWFuIENQIOq4sOuwmCDtlbTshowqKiAgCiAgKipNaW51IEJhZWsqKiwgR2lodW4gR2lsLCBZZW9qaW4gSmFuZywgSmlvIFlvbywgU2VveW91bmcgTGVlLCBZb29ubWVlIERvaCwgSmlueW91bmcgQ2hvaSBhbmQgU2FuZ2tldW0gTGVlICAKICAqMjAyNiDtlZzqta3thrXsi6DtlZntmowg7ZWY6rOE7KKF7ZWp7ZWZ7Iig67Cc7ZGc7ZqMLCDtj6zsiqTthLAg67Cc7ZGcICgyMDI2LjA2LjE3IH4gMjAyNi4wNi4xOSwg7KCc7KO8KSogwrcgKirsmrDsiJjrhbzrrLjsg4Eo7Y+s7Iqk7YSwKSoqCgotICoq7IKw7JeFIElvVCDtmZjqsr3sl5DshJzsnZgg64uk7KSRIOyXo+yngCDsmKTtlITroZzrlKnsnYQg7JyE7ZWcIOqwle2ZlO2VmeyKtSDquLDrspUqKiAgCiAgWWVvamluIEphbmcsIEdpaHVuIEdpbCwgKipNaW51IEJhZWsqKiwgU2VveW91bmcgTGVlLCBKaW8gWW9vIGFuZCBTYW5na2V1bSBMZWUgIAogICrtlZzqta3thrXsi6DtlZntmowgMjAyNiDtlZjqs4QqCgotICoqTExNIOyngOyLnSDspp3rpZgg6rK965+JIOuztOyDgSDrqqjrjbjsnYQg7Zmc7Jqp7ZWcIOygnOyngCDqs7XsoJUg7J6Q7JyoIOyatOyghCDqsJXtmZTtlZnsirUg7ZSE66CI7J6E7JuM7YGsKiogIAogIOq4uOq4sO2biCwgKirrsLHrr7zsmrAqKiwg7J6l7Jes7KeELCDsnbTshJzsmIEsIOycoOyngOyYpCwg7LWc7KeE7JiBLCDrj4TsnKTrr7gsIOydtOyDgeq4iCAgCiAgKu2VnOq1re2GteyLoO2Vme2ajCAyMDI2IO2VmOqzhCoKCi0gKipDTElQMkZMIOq4sOuwmCBMb25nLXRhaWwg7Jew7ZWp7ZWZ7Iq17J2EIOychO2VnCDqt6DtmJUg7KeA7IudIOymneulmChCS0QpIOq4sOuylSoqICAKICDsoITspIAsICoq67Cx66+87JqwKiosIOydtOyDgeq4iCAgCiAgKu2VnOq1re2GteyLoO2Vme2ajCAyMDI2IOuPmeqzhCoKCi0gKirsoJzsp4Dqs7XsoJUg6rCV7ZmU7ZWZ7Iq1IOyViOyghOygnOyWtOulvCDsnITtlZwg642w7J207YSwIOq4sOuwmCDsmrTsoIQg7JiB7JetIOygleufie2ZlCDrsI8g7ZKI7KeIIOyYge2WpSDrtoTshJ0qKiAgCiAgKirrsLHrr7zsmrAqKiwg7Jyg7KeA7JikLCDquLjquLDtm4gsIOydtOyEnOyYgSwg7J6l7Jes7KeELCDrj4TsnKTrr7gsIOy1nOynhOyYgSwg7J207IOB6riIICAKICAqMjAyNiDrj5nqs4Qg7ZWc6rWt7Ya17Iug7ZWZ7ZqMIO2VmeyIoOuMgO2ajCwg7Y+s7Iqk7YSwIOyEuOyFmCAoMjAyNi4wMi4wNCB+IDIwMjYuMDIuMDYpKgoKLSAqKuygnOyngCDqs7XsoJUg6rCV7ZmU7ZWZ7Iq17JeQ7IScIEdNTSDquLDrsJggT09EIOqwkOyngOyZgCDqs4TsuLXsoIEg7JWI7KCEIOyKpOychOy5rSDsoJXssYXsnZggQ1ZhUiDquLDrsJgg7JyE7ZeYIOq0gOumrCDtmqjqs7wg67aE7ISdKiogIAogIOycoOyngOyYpCwgKirrsLHrr7zsmrAqKiwg6ri46riw7ZuILCDsnbTshJzsmIEsIOyepeyXrOynhCwg7J207IOB6riIICAKICAq7ZWc6rWt7Ya17Iug7ZWZ7ZqMIDIwMjYg64+Z6rOEKgoKLSAqKuuMgOq3nOuqqCDsgrDsl4Xrp53snZggUW9TIOuztOyepeydhCDsnITtlZwgQ1ZhUiDquLDrsJgg7JyE7ZeYIOuvvOqwkCDqsJXtmZTtlZnsirUg65287Jqw7YyFIOq4sOuylSoqICAKICDsnqXsl6zsp4QsICoq67Cx66+87JqwKiosIOq4uOq4sO2biCwg7J207ISc7JiBLCDsnKDsp4DsmKQsIOydtOyDgeq4iCAgCiAgKu2VnOq1re2GteyLoO2Vme2ajCAyMDI2IOuPmeqzhCoKCi0gKirsoJzsp4Dqs7XsoJUg7Iuc6rOE7Je0IOuNsOydtO2EsOydmCDsnbTsg4Eg7JuQ7J24IOyekOuPmSDtlbTshJ3snYQg7JyE7ZWcIExMTSDquLDrsJgg7ISk66qFIOyDneyEsSDrqqjrjbgg7Jew6rWsKiogIAogIOydtOyEnOyYgSwg7J6l7Jes7KeELCDquLjquLDtm4gsICoq67Cx66+87JqwKiosIOycoOyngOyYpCwg7J207IOB6riIICAKICAq7ZWc6rWt7Ya17Iug7ZWZ7ZqMIDIwMjYg64+Z6rOEKgoKLSAqKuqwle2ZlO2VmeyKtSDquLDrsJgg7KCc7KeAIOqzteyglSDsnpDsnKgg7Jq07KCEOiDstIjquLAg7JWI7KCV7ZmUIOqwgOyGje2ZlCDsoITrnrUqKiAgCiAgKirrsLHrr7zsmrAqKiwg7Jyg7KeA7JikLCDquLjquLDtm4gsIOydtOyEnOyYgSwg64+E7Jyk66+4LCDstZzsp4TsmIEsIOydtOyDgeq4iCAgCiAgKjIwMjUg7ZWc6rWt7Ya17Iug7ZWZ7ZqMIOy2lOqzhOyihe2Vqe2VmeyIoOuwnO2RnO2ajCwg7Y+s7Iqk7YSwIOuwnO2RnCoKCi0gKirsi6Tsi5zqsIQg7KCc7KeAIOqzteyglSDsmrTsmIEg7Zqo7Jyo7ZmU66W8IOychO2VnCBMTE3qs7wgUkFH6riw67CYIOuMgO2ZlO2YlSBBSSDslrTsi5zsiqTthLTtirgg7ISk6rOEKiogIAogIOq4uOq4sO2biCwg7J207ISc7JiBLCAqKuuwseuvvOyasCoqLCDsnKDsp4DsmKQsIOy1nOynhOyYgSwg64+E7Jyk66+4LCDsnbTsg4HquIggIAogICoyMDI1IO2VnOq1re2GteyLoO2Vme2ajCDstpTqs4TsooXtlantlZnsiKDrsJztkZztmowsIO2PrOyKpO2EsCDrsJztkZwqCgotLS0KCiMjIPCfmoAgU2VsZWN0ZWQgUHJvamVjdHMKLSAqKlBhcGVyUkwqKiAgCiAgSHlicmlkIGRpZ2l0YWwgdHdpbiBhbmQgcmVpbmZvcmNlbWVudCBsZWFybmluZyBwaXBlbGluZSBmb3IgYXV0b25vbW91cyBwYXBlcm1ha2luZyBwcm9jZXNzIGNvbnRyb2wuICAKCi0gKipJbmR1c3RyaWFsIE1vbml0b3JpbmcgQXNzaXN0YW50KiogIAogIFJlYWN0IGFuZCBGYXN0QVBJLWJhc2VkIG9wZXJhdG9yIHN1cHBvcnQgc3lzdGVtIGZvciBkb2N1bWVudCByZXRyaWV2YWwsIHJlYWwtdGltZSBRJkEsIGFuZCBwcm9jZXNzIG1vbml0b3JpbmcuCgotICoqU3RyYXdiZXJyeSBEZXRlY3Rpb24gJiBIYXJ2ZXN0aW5nKiogIAogIFZpc2lvbi1iYXNlZCByaXBlbmVzcyBlc3RpbWF0aW9uIGFuZCByb2JvdGljIGhhcnZlc3RpbmcgcGlwZWxpbmUgZm9yIHNtYXJ0IGFncmljdWx0dXJlLgoKLSAqKkluZHk3ICsgT3Blbk1BTklQVUxBVE9SLVggQ29udHJvbCBTdGFjayoqICAKICBKZXRzb24gT3JpbiBOYW5vIGFuZCBSZWFsU2Vuc2UtYmFzZWQgcm9ib3RpY3MgY29udHJvbCBhbmQgaW50ZWdyYXRpb24gd29ya2Zsb3cuCgotLS0KCiMjIPCfm6DvuI8gQ29yZSBTdGFjawo8cD4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCLnN2Zz9sb2dvPVB5dGhvbiZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHlUb3JjaC1FRTRDMkMuc3ZnP2xvZ289UHlUb3JjaCZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR3ltbmFzaXVtLTAwMDAwMC5zdmc/bG9nbz1PcGVuQUkmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1N0YWJsZS0tQmFzZWxpbmVzMy00QjhCQkUuc3ZnIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2QzcmxweS04QTJCRTIuc3ZnIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3NjaWtpdC0tbGVhcm4tRjc5MzFFLnN2Zz9sb2dvPXNjaWtpdC1sZWFybiZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvWEdCb29zdC0xQTdEQzAuc3ZnIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpZ2h0R0JNLTJFOEI1Ny5zdmciIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTnVtUHktMDEzMjQzLnN2Zz9sb2dvPW51bXB5JmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QYW5kYXMtMTUwNDU4LnN2Zz9sb2dvPXBhbmRhcyZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTWF0cGxvdGxpYi0xMTU1N0Muc3ZnIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1Bsb3RseS0zRjRGNzUuc3ZnP2xvZ289cGxvdGx5JmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9ST1MtMjIzMTRFLnN2Zz9sb2dvPXJvcyZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTlZJRElBJTIwQ1VEQS03NkI5MDAuc3ZnP2xvZ289bnZpZGlhJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KZXRzb24tNzZCOTAwLnN2Zz9sb2dvPW52aWRpYSZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSW50ZWwlMjBSZWFsU2Vuc2UtMDA3MUM1LnN2ZyIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HaXQtRjA1MDMyLnN2Zz9sb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUiIC8+CjwvcD4KCi0tLQoKIyMg8J+PhiBBd2FyZHMsIENvbXBldGl0aW9ucyAmIEFjdGl2aXRpZXMKLSAqKjIwMjYqKiDtlZzqta3thrXsi6DtlZntmowg7ZWY6rOE7KKF7ZWp7ZWZ7Iig67Cc7ZGc7ZqMICoq7Jqw7IiY64W866y47IOBKO2PrOyKpO2EsCkqKiAgCiAgQ29uZm9ybWFsIFByZWRpY3Rpb27snYQg7J207Jqp7ZWcIOygnOyngOqzteyglSDsiJjrtoQgU3Vycm9nYXRl7J2YIOuztOyepeuloCDqsoDspp06IOyYgeyXreuzhCDrtojqt6DtmJXqs7wgTW9uZHJpYW4gQ1Ag6riw67CYIO2VtOyGjCDCtyAqKuygnDHsoIDsnpAqKiAgCiAgW+yImOyDgSDrqqnroZ1dKGh0dHBzOi8vY29uZi5raWNzLm9yLmtyLzIwMjZmL3N1cHBvcnRJbmZvcm0jYmVzdCkKLSAqKjIwMjYuMDkuMjEqKiDqs7Xqs7XrjbDsnbTthLAg7Zmc7JqpIOqzteuqqOyghCAqKuyasOyImOyDgSjrjIDsoITqtozrjIDtlZkg7IKw7ZWZ7ZiR7J2Y7LK0IO2ajOyepeyDgSkqKgotICoqMjAyNi4wOC4wOSoqIEtERCAyMDI2IFVETSBXb3Jrc2hvcCDqtazrkZDrsJztkZwgKOygnOyjvCkKLSAqKjIwMjYuMDYuMTcqKiDtlZzqta3thrXsi6DtlZntmowgKirsmrDsiJjrhbzrrLjsg4EqKiAgCiAg64yA6rec66qoIOyCsOyXheunneydmCBRb1Mg67O07J6l7J2EIOychO2VnCBDVmFSIOq4sOuwmCDsnITtl5gg66+86rCQIOqwle2ZlO2VmeyKtSDrnbzsmrDtjIUg6riw67KVICAKICAq64+Z6rOE7KKF7ZWp7ZWZ7Iig67Cc7ZGc7ZqMIOuwnO2RnCDrhbzrrLggwrcg7ZWY6rOE7KKF7ZWp7ZWZ7Iig67Cc7ZGc7ZqMIOyLnOyDgSogwrcgW+yImOyDgSDshozsi51dKGh0dHBzOi8vd3d3LmhhbmJhdC5hYy5rci9wcm9nL2Jic0FydGljbGUvQkJTTVNUUl8wMDAwMDAwMDAwNTUvdmlldy5kbz9tbm89c3ViMDdfMDQwNCZudHRJZD1CMDAwMDAwMTY3Mzk1WW4zeUw3cCkKLSAqKjIwMjYuMDYuMTcgfiAyMDI2LjA2LjE5Kiog7ZWc6rWt7Ya17Iug7ZWZ7ZqMIO2VmOqzhOyihe2Vqe2VmeyIoOuwnO2RnO2ajCDssLjqsIAgKO2PrOyKpO2EsCDrsJztkZwsIOygnOyjvCkKLSAqKjIwMjYuMDMuMDYqKiDrjbDsnbTthLDrtoTshJ0g7KSA7KCE66y46rCAKEFEc1ApIOy3qOuTnQotICoqMjAyNi4wMi4wNSoqIO2GteyLoO2Vme2ajCDslYTsnbTrlJTslrQg6rK97KeE64yA7ZqMIOywuOqwgCAgCiAgUkwg6riw67CYIOyDge2ZqSDsnbjsp4DtmJUg7KCB7J2R7ZiVIOyLnOunqO2LsSDsoITshqEg7Iuc7Iqk7YWcCi0gKioyMDI2LjAyLjA0IH4gMjAyNi4wMi4wNioqIO2VnOq1re2GteyLoO2Vme2ajCDrj5nqs4TsooXtlantlZnsiKDrsJztkZztmowg7LC46rCAICjtj6zsiqTthLAg67Cc7ZGcKQotICoqMjAyNi4wMS4yMSB+IDIwMjYuMDEuMjMqKiBBQUFJIDIwMjYg7ZWZ7ZqMIOywuOqwgAotICoqMjAyNS4xMS4yMCoqIO2VnOq1re2GteyLoO2Vme2ajCDstpTqs4TsooXtlantlZnsiKDrsJztkZztmowg7ZWZ67aA7IOdIOy6oeyKpO2GpOuUlOyekOyduCDqsr3sp4TrjIDtmowg7Jqw7IiY7IOBICAKICBg7Iuk7Iuc6rCEIOqzteygleqzvOygleyXkOyEnOydmCDsg53shLHtmJUgQUkg6riw67CYIOuqqOuLiO2EsOungSDshJzruYTsiqRgICAKICBb7IiY7IOBIOyGjOyLnV0oaHR0cHM6Ly93d3cuaGFuYmF0LmFjLmtyL3Byb2cvYmJzQXJ0aWNsZS9CQlNNU1RSXzAwMDAwMDAwMDA1My92aWV3LmRvP21ubz1zdWIwN18wNDAyJm50dElkPUIwMDAwMDAxNjExODhKdzJwVjN3KQotICoqMjAyNS4xMC4xNioqIOuMgOyghCDssL3snZjsoIEg7KKF7ZWp7ISk6rOEIOqyveynhOuMgO2ajCDsnqXroKTsg4EgIAogIOuUpeufrOuLnSDquLDrsJgg65S46riwIOyImeyEsSDrtoTrpZgg67CPIOyImO2ZlSDsnpDrj5ntmZQg66Gc67SHCi0gKioyMDI1LjA3LjA3Kiog7IKw7ZWZ7ZiR66ClIO2UhOuhnOygne2KuCDssLjsl6wgIAogIOyekOycqOyjvO2WiSDso7zssKjroZzrtIcg7Jq07JiBIOyGjO2UhO2KuOybqOyWtCDshLHriqUg7YWM7Iqk7Yq4IOuwjyDstZzsoIHtmZQKLSAqKjIwMjQuMDEgfiAyMDI0LjA3Kiog7IaM7ZSE7Yq47Juo7Ja0IOykkeyLrOuMgO2VmSBTV+2KueqwlSAz7ZqMICjsvZTrlKnthYzsiqTtirjCt+yVjOqzoOumrOymmMK37KCV67O067O07JWIKQoKLS0tCgojIyDwn5OrIENvbnRhY3QKLSBFbWFpbDogYGJtdzU3NzlAbzM2NS5oYW5iYXQuYWMua3JgCi0gR29vZ2xlIFNjaG9sYXI6IFtzY2hvbGFyLmdvb2dsZS5jb20vY2l0YXRpb25zP3VzZXI9QVROWDQ3OEFBQUFKXShodHRwczovL3NjaG9sYXIuZ29vZ2xlLmNvbS9jaXRhdGlvbnM/dXNlcj1BVE5YNDc4QUFBQUomaGw9a28pCg==
+<!-- Header -->
+<h1 align="center">Minu Baek (백민우)</h1>
+<p align="center">
+  Safe Reinforcement Learning · Industrial AI · Robotics
+</p>
+<p align="center">
+  M.S. Student in the Department of Computer Engineering, Graduate School of Software Convergence, Hanbat National University
+  <br />
+  Member of <a href="https://sites.google.com/view/ecoai/introduction?authuser=0">Eco AI Lab</a>
+</p>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=ATNX478AAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:bmw5779@o365.hanbat.ac.kr"><img src="https://img.shields.io/badge/Email-0078D4" alt="Email" /></a>
+  <a href="https://github.com/dovi0129"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## 👋 About Me
+- 국립한밭대학교 소프트웨어융합대학원 컴퓨터공학과 석사과정 재학
+- [Eco AI Lab](https://sites.google.com/view/ecoai/introduction?authuser=0) 소속
+- 강화학습과 디지털 트윈 기반의 산업 공정 자율화 연구 수행
+
+---
+
+## 🎯 Research Focus
+My research centers on **safe and trustworthy reinforcement learning for industrial process control**, organized around one question: *when* can a control policy be trusted from real closed-loop operating logs? I combine identifiability and causal diagnosis, physics-grounded digital twins, and uncertainty-calibrated safety layers — deploying RL only where the data supports it, and abstaining when it does not.
+
+- **Safe and offline reinforcement learning** for autonomous industrial process control
+- **Identifiability and causal diagnosis** for closed-loop industrial logs — deciding when offline policy learning is reliable, and abstaining when action effects are not identifiable
+- **Hybrid, physics-grounded digital twins** for sample-efficient, safe policy learning (validated on a twin built from 11 months of papermaking operation across 687 production lots)
+- **Uncertainty quantification and conformal prediction** for surrogate reliability and coverage guarantees
+- **Tail-risk-aware, capacity-constrained control** for safety-critical, rare-failure settings
+- **LLM- and RAG-based operator support systems** for real-time process monitoring
+
+**Keywords:** `Offline RL` · `Safe RL` · `Causal Identifiability` · `Closed-Loop Confounding` · `Digital Twin` · `Conformal Prediction` · `Tail-Risk` · `Industrial Process Control`
+
+---
+
+## 📄 Selected Publications & Presentations
+
+**Journal & International Venues**
+
+- **Carbon-Conformal Manufacturing: Conformal Prediction-Guided Carbon Emission Optimization in Paper-Mill Energy Systems**  
+  Gihun Gil, **Minu Baek**, Jio Yoo, Seoyoung Lee, Yeojin Jang, Yoonmee Doh, Jinyoung Choi, Sangkeum Lee  
+  *Applied Energy, Vol. 421, Art. no. 128200, 2026* · [DOI](https://doi.org/10.1016/j.apenergy.2026.128200)
+
+- **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract)**  
+  Beomdo Park, Hyeonseok Jang, Junseong Park, **Minu Baek**, Gihun Gil, Minsung Jung, Woohyeon Kwon, Harin Jang, Yeojin Jang, Hoon Jeong, Taewook Heo and Sangkeum Lee  
+  *AAAI 2026 Student Abstract* · [DOI](https://doi.org/10.1609/aaai.v40i48.42264)
+
+- **DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes**  
+  Yeojin Jang, **Minu Baek**, Gihun Gil, Minsung Jung, Beomdo Park, Woohyeon Kwon, Hyeonseok Jang, Junseong Park, Neha Sengar, Andres Saurez, Sangkeum Lee  
+  *IJCAI-ECAI 2026, AI4Tech Special Track* · [Proceedings](https://www.ijcai.org/proceedings/2026/718)
+
+- **Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning**  
+  **Minu Baek**, Gihun Gil, Yeojin Jang, Byounghoon Son, Beomdo Park, Minsung Jung, Junseong Park, Hyeonseok Jang and Sangkeum Lee  
+  *UDM Workshop @ KDD 2026 · Oral Presentation* · [Program](https://sites.google.com/view/udmkdd26/home)
+
+- **LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation**  
+  Gihun Gil, **Minu Baek**, Yeojin Jang, Byounghoon Son, Junseong Park, Beomdo Park, Hyeonseok Jang, Minsung Jung and Sangkeum Lee  
+  *AIDataSci@KDD 2026 · Accepted, Poster* · [Paper](https://usail-hkust.github.io/aidatasci/assets/papers/llm-priors-industrial-control.pdf)
+
+- **Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data**  
+  Byounghoon Son, Minsung Jung, Hyeonseok Jang, Beomdo Park, Gihun Gil, Junseong Park, **Minu Baek**, Yeojin Jang and Sangkeum Lee  
+  *AIDataSci@KDD 2026 · Accepted, Poster* · [Paper](https://usail-hkust.github.io/aidatasci/assets/papers/structured-explain-feedback.pdf)
+
+- **When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control**  
+  Junseong Park, Hyeonseok Jang, Beomdo Park, Yeojin Jang, **Minu Baek**, Gihun Gil, Byounghoon Son, Minsung Jung and Sangkeum Lee  
+  *GLOW Workshop @ IJCAI 2026 · Poster* · [Lab Publications](https://ecoailab.github.io/publications/)
+
+**Domestic Conferences (KICS · IEIE)**
+
+- **강화학습 기반 휴머노이드 로봇 손의 제어를 위한 학습 진행 기반 LLM 적응적 개입 스케줄링**  
+  Sanghoon Choo, Jihwan Jeon, Giyong Nam, **Minu Baek** and Sangkeum Lee  
+  *대한전자공학회 2026 하계 · 포스터*
+
+- **LLM 의사결정과 강화학습 기반 Action Filtering을 활용한 제지공정 이상 대응 프레임워크**  
+  Seoyoung Lee, Gihun Gil, Yeojin Jang, **Minu Baek**, Jio Yoo and Sangkeum Lee  
+  *대한전자공학회 2026 하계 · 포스터*
+
+- **Conformal Prediction을 이용한 제지공정 수분 Surrogate의 보장률 검증: 영역별 불균형과 Mondrian CP 기반 해소**  
+  **Minu Baek**, Gihun Gil, Yeojin Jang, Jio Yoo, Seoyoung Lee, Yoonmee Doh, Jinyoung Choi and Sangkeum Lee  
+  *2026 한국통신학회 하계종합학술발표회, 포스터 발표 (2026.06.17 ~ 2026.06.19, 제주)* · **우수논문상(포스터)**
+
+- **산업 IoT 환경에서의 다중 엣지 오프로딩을 위한 강화학습 기법**  
+  Yeojin Jang, Gihun Gil, **Minu Baek**, Seoyoung Lee, Jio Yoo and Sangkeum Lee  
+  *한국통신학회 2026 하계*
+
+- **LLM 지식 증류 경량 보상 모델을 활용한 제지 공정 자율 운전 강화학습 프레임워크**  
+  길기훈, **백민우**, 장여진, 이서영, 유지오, 최진영, 도윤미, 이상금  
+  *한국통신학회 2026 하계*
+
+- **CLIP2FL 기반 Long-tail 연합학습을 위한 균형 지식 증류(BKD) 기법**  
+  전준, **백민우**, 이상금  
+  *한국통신학회 2026 동계*
+
+- **제지공정 강화학습 안전제어를 위한 데이터 기반 운전 영역 정량화 및 품질 영향 분석**  
+  **백민우**, 유지오, 길기훈, 이서영, 장여진, 도윤미, 최진영, 이상금  
+  *2026 동계 한국통신학회 학술대회, 포스터 세션 (2026.02.04 ~ 2026.02.06)*
+
+- **제지 공정 강화학습에서 GMM 기반 OOD 감지와 계층적 안전 스위칭 정책의 CVaR 기반 위험 관리 효과 분석**  
+  유지오, **백민우**, 길기훈, 이서영, 장여진, 이상금  
+  *한국통신학회 2026 동계*
+
+- **대규모 산업망의 QoS 보장을 위한 CVaR 기반 위험 민감 강화학습 라우팅 기법**  
+  장여진, **백민우**, 길기훈, 이서영, 유지오, 이상금  
+  *한국통신학회 2026 동계*
+
+- **제지공정 시계열 데이터의 이상 원인 자동 해석을 위한 LLM 기반 설명 생성 모델 연구**  
+  이서영, 장여진, 길기훈, **백민우**, 유지오, 이상금  
+  *한국통신학회 2026 동계*
+
+- **강화학습 기반 제지 공정 자율 운전: 초기 안정화 가속화 전략**  
+  **백민우**, 유지오, 길기훈, 이서영, 도윤미, 최진영, 이상금  
+  *2025 한국통신학회 추계종합학술발표회, 포스터 발표*
+
+- **실시간 제지 공정 운영 효율화를 위한 LLM과 RAG기반 대화형 AI 어시스턴트 설계**  
+  길기훈, 이서영, **백민우**, 유지오, 최진영, 도윤미, 이상금  
+  *2025 한국통신학회 추계종합학술발표회, 포스터 발표*
+
+---
+
+## 🚀 Selected Projects
+- **PaperRL**  
+  Hybrid digital twin and reinforcement learning pipeline for autonomous papermaking process control.  
+
+- **Industrial Monitoring Assistant**  
+  React and FastAPI-based operator support system for document retrieval, real-time Q&A, and process monitoring.
+
+- **Strawberry Detection & Harvesting**  
+  Vision-based ripeness estimation and robotic harvesting pipeline for smart agriculture.
+
+- **Indy7 + OpenMANIPULATOR-X Control Stack**  
+  Jetson Orin Nano and RealSense-based robotics control and integration workflow.
+
+---
+
+## 🛠️ Core Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gymnasium-000000.svg?logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-4B8BBE.svg" />
+  <img src="https://img.shields.io/badge/d3rlpy-8A2BE2.svg" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-1A7DC0.svg" />
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57.svg" />
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900.svg?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetson-76B900.svg?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5.svg" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Awards, Competitions & Activities
+- **2026** 한국통신학회 하계종합학술발표회 **우수논문상(포스터)**  
+  Conformal Prediction을 이용한 제지공정 수분 Surrogate의 보장률 검증: 영역별 불균형과 Mondrian CP 기반 해소 · **제1저자**  
+  [수상 목록](https://conf.kics.or.kr/2026f/supportInform#best)
+- **2026.09.21** 공공데이터 활용 공모전 **우수상(대전권대학 산학협의체 회장상)**
+- **2026.08.09** KDD 2026 UDM Workshop 구두발표 (제주)
+- **2026.06.17** 한국통신학회 **우수논문상**  
+  대규모 산업망의 QoS 보장을 위한 CVaR 기반 위험 민감 강화학습 라우팅 기법  
+  *동계종합학술발표회 발표 논문 · 하계종합학술발표회 시상* · [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?mno=sub07_0404&nttId=B000000167395Yn3yL7p)
+- **2026.06.17 ~ 2026.06.19** 한국통신학회 하계종합학술발표회 참가 (포스터 발표, 제주)
+- **2026.03.06** 데이터분석 준전문가(ADsP) 취득
+- **2026.02.05** 통신학회 아이디어 경진대회 참가  
+  RL 기반 상황 인지형 적응형 시맨틱 전송 시스템
+- **2026.02.04 ~ 2026.02.06** 한국통신학회 동계종합학술발표회 참가 (포스터 발표)
+- **2026.01.21 ~ 2026.01.23** AAAI 2026 학회 참가
+- **2025.11.20** 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회 우수상  
+  `실시간 공정과정에서의 생성형 AI 기반 모니터링 서비스`  
+  [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000053/view.do?mno=sub07_0402&nttId=B000000161188Jw2pV3w)
+- **2025.10.16** 대전 창의적 종합설계 경진대회 장려상  
+  딥러닝 기반 딸기 숙성 분류 및 수확 자동화 로봇
+- **2025.07.07** 산학협력 프로젝트 참여  
+  자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화
+- **2024.01 ~ 2024.07** 소프트웨어 중심대학 SW특강 3회 (코딩테스트·알고리즘·정보보안)
+
+---
+
+## 📫 Contact
+- Email: `bmw5779@o365.hanbat.ac.kr`
+- Google Scholar: [scholar.google.com/citations?user=ATNX478AAAAJ](https://scholar.google.com/citations?user=ATNX478AAAAJ&hl=ko)
