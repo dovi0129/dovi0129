@@ -1,29 +1,31 @@
-<!-- Header -->
-<h1 align="center">Minu Baek (백민우)</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dovi0129/dovi0129/main/assets/profile-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dovi0129/dovi0129/main/assets/profile-light.svg" width="100%" alt="Minu Baek · Safe reinforcement learning for industrial systems · Eco AI Lab, Hanbat National University" />
+</picture>
+
 <p align="center">
-  Safe Reinforcement Learning · Industrial AI · Robotics
+  <a href="https://scholar.google.com/citations?user=ATNX478AAAAJ&amp;hl=ko">Google Scholar</a> &nbsp; / &nbsp;
+  <a href="https://ecoailab.github.io/">Eco AI Lab</a> &nbsp; / &nbsp;
+  <a href="mailto:bmw5779@o365.hanbat.ac.kr">Email</a>
 </p>
 <p align="center">
-  M.S. Student in the Department of Computer Engineering, Graduate School of Software Convergence, Hanbat National University
-  <br />
-  Member of <a href="https://sites.google.com/view/ecoai/introduction?authuser=0">Eco AI Lab</a>
-</p>
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=ATNX478AAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="mailto:bmw5779@o365.hanbat.ac.kr"><img src="https://img.shields.io/badge/Email-0078D4" alt="Email" /></a>
-  <a href="https://github.com/dovi0129"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#research">Research</a> &nbsp; · &nbsp;
+  <a href="#publications">Publications</a> &nbsp; · &nbsp;
+  <a href="#recognition">Recognition</a> &nbsp; · &nbsp;
+  <a href="#projects">Projects</a>
 </p>
 
----
+## Research
 
-## 👋 About Me
-- 국립한밭대학교 소프트웨어융합대학원 컴퓨터공학과 석사과정 재학
-- [Eco AI Lab](https://sites.google.com/view/ecoai/introduction?authuser=0) 소속
-- 강화학습과 디지털 트윈 기반의 산업 공정 자율화 연구 수행
+I study **when reinforcement learning can be trusted in industrial control**. My work connects safe policies, physics-grounded digital twins, and uncertainty-aware decisions.
 
----
+국립한밭대학교 소프트웨어융합대학원 컴퓨터공학과 석사과정 · [Eco AI Lab](https://ecoailab.github.io/)
 
-## 🎯 Research Focus
+`Safe & Offline RL` &nbsp; `Digital Twins` &nbsp; `Uncertainty Quantification` &nbsp; `Robotics`
+
+<details>
+<summary>More about my research</summary>
+
 My research centers on **safe and trustworthy reinforcement learning for industrial process control**, organized around one question: *when* can a control policy be trusted from real closed-loop operating logs? I combine identifiability and causal diagnosis, physics-grounded digital twins, and uncertainty-calibrated safety layers — deploying RL only where the data supports it, and abstaining when it does not.
 
 - **Safe and offline reinforcement learning** for autonomous industrial process control
@@ -35,23 +37,42 @@ My research centers on **safe and trustworthy reinforcement learning for industr
 
 **Keywords:** `Offline RL` · `Safe RL` · `Causal Identifiability` · `Closed-Loop Confounding` · `Digital Twin` · `Conformal Prediction` · `Tail-Risk` · `Industrial Process Control`
 
----
+</details>
 
-## 📄 Selected Publications & Presentations
+## Publications
 
-**Journal & International Venues**
+- **Carbon-Conformal Manufacturing: Conformal Prediction-Guided Carbon Emission Optimization in Paper-Mill Energy Systems**    
+*Applied Energy, Vol. 421, Art. no. 128200, 2026* · [DOI](https://doi.org/10.1016/j.apenergy.2026.128200)
 
-- **Carbon-Conformal Manufacturing: Conformal Prediction-Guided Carbon Emission Optimization in Paper-Mill Energy Systems**  
-  Gihun Gil, **Minu Baek**, Jio Yoo, Seoyoung Lee, Yeojin Jang, Yoonmee Doh, Jinyoung Choi, Sangkeum Lee  
-  *Applied Energy, Vol. 421, Art. no. 128200, 2026* · [DOI](https://doi.org/10.1016/j.apenergy.2026.128200)
+<details>
+<summary>Authors</summary>
 
-- **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract)**  
-  Beomdo Park, Hyeonseok Jang, Junseong Park, **Minu Baek**, Gihun Gil, Minsung Jung, Woohyeon Kwon, Harin Jang, Yeojin Jang, Hoon Jeong, Taewook Heo and Sangkeum Lee  
-  *AAAI 2026 Student Abstract* · [DOI](https://doi.org/10.1609/aaai.v40i48.42264)
+Gihun Gil, **Minu Baek**, Jio Yoo, Seoyoung Lee, Yeojin Jang, Yoonmee Doh, Jinyoung Choi, Sangkeum Lee
 
-- **DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes**  
-  Yeojin Jang, **Minu Baek**, Gihun Gil, Minsung Jung, Beomdo Park, Woohyeon Kwon, Hyeonseok Jang, Junseong Park, Neha Sengar, Andres Saurez, Sangkeum Lee  
-  *IJCAI-ECAI 2026, AI4Tech Special Track* · [Proceedings](https://www.ijcai.org/proceedings/2026/718)
+</details>
+
+- **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract)**    
+*AAAI 2026 Student Abstract* · [DOI](https://doi.org/10.1609/aaai.v40i48.42264)
+
+<details>
+<summary>Authors</summary>
+
+Beomdo Park, Hyeonseok Jang, Junseong Park, **Minu Baek**, Gihun Gil, Minsung Jung, Woohyeon Kwon, Harin Jang, Yeojin Jang, Hoon Jeong, Taewook Heo and Sangkeum Lee
+
+</details>
+
+- **DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes**    
+*IJCAI-ECAI 2026, AI4Tech Special Track* · [Proceedings](https://www.ijcai.org/proceedings/2026/718)
+
+<details>
+<summary>Authors</summary>
+
+Yeojin Jang, **Minu Baek**, Gihun Gil, Minsung Jung, Beomdo Park, Woohyeon Kwon, Hyeonseok Jang, Junseong Park, Neha Sengar, Andres Saurez, Sangkeum Lee
+
+</details>
+
+<details>
+<summary><b>International workshops</b> · KDD & IJCAI</summary>
 
 - **Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning**  
   **Minu Baek**, Gihun Gil, Yeojin Jang, Byounghoon Son, Beomdo Park, Minsung Jung, Junseong Park, Hyeonseok Jang and Sangkeum Lee  
@@ -69,7 +90,10 @@ My research centers on **safe and trustworthy reinforcement learning for industr
   Junseong Park, Hyeonseok Jang, Beomdo Park, Yeojin Jang, **Minu Baek**, Gihun Gil, Byounghoon Son, Minsung Jung and Sangkeum Lee  
   *GLOW Workshop @ IJCAI 2026 · Poster* · [Lab Publications](https://ecoailab.github.io/publications/)
 
-**Domestic Conferences (KICS · IEIE)**
+</details>
+
+<details>
+<summary><b>Domestic conferences</b> · KICS & IEIE</summary>
 
 - **강화학습 기반 휴머노이드 로봇 손의 제어를 위한 학습 진행 기반 LLM 적응적 개입 스케줄링**  
   Sanghoon Choo, Jihwan Jeon, Giyong Nam, **Minu Baek** and Sangkeum Lee  
@@ -119,72 +143,76 @@ My research centers on **safe and trustworthy reinforcement learning for industr
   길기훈, 이서영, **백민우**, 유지오, 최진영, 도윤미, 이상금  
   *2025 한국통신학회 추계종합학술발표회, 포스터 발표*
 
----
+</details>
 
-## 🚀 Selected Projects
-- **PaperRL**  
-  Hybrid digital twin and reinforcement learning pipeline for autonomous papermaking process control.  
+## Recognition
 
-- **Industrial Monitoring Assistant**  
-  React and FastAPI-based operator support system for document retrieval, real-time Q&A, and process monitoring.
+| Year | Award |
+| :--- | :--- |
+| **2026** | **KICS 하계 우수논문상(포스터)** · 제1저자<br>Conformal Prediction 기반 제지공정 수분 예측 · [수상 목록](https://conf.kics.or.kr/2026f/supportInform#best) |
+| **2026.09.21** | **공공데이터 활용 공모전 우수상**<br>대전권대학 산학협의체 회장상 |
+| **2026.06.17** | **KICS 동계 발표 논문 우수논문상**<br>CVaR 기반 위험 민감 강화학습 라우팅 · 하계학회 시상 · [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?mno=sub07_0404&nttId=B000000167395Yn3yL7p) |
+| **2025.11.20** | **KICS 학부생 캡스톤디자인 경진대회 우수상**<br>생성형 AI 기반 공정 모니터링 서비스 · [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000053/view.do?mno=sub07_0402&nttId=B000000161188Jw2pV3w) |
+| **2025.10.16** | **대전 창의적 종합설계 경진대회 장려상**<br>딥러닝 기반 딸기 숙성 분류 및 수확 자동화 로봇 |
 
-- **Strawberry Detection & Harvesting**  
-  Vision-based ripeness estimation and robotic harvesting pipeline for smart agriculture.
+<details>
+<summary>Activities & certifications</summary>
 
-- **Indy7 + OpenMANIPULATOR-X Control Stack**  
-  Jetson Orin Nano and RealSense-based robotics control and integration workflow.
-
----
-
-## 🛠️ Core Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gymnasium-000000.svg?logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-4B8BBE.svg" />
-  <img src="https://img.shields.io/badge/d3rlpy-8A2BE2.svg" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-1A7DC0.svg" />
-  <img src="https://img.shields.io/badge/LightGBM-2E8B57.svg" />
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900.svg?logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetson-76B900.svg?logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5.svg" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
-</p>
-
----
-
-## 🏆 Awards, Competitions & Activities
-- **2026** 한국통신학회 하계종합학술발표회 **우수논문상(포스터)**  
-  Conformal Prediction을 이용한 제지공정 수분 Surrogate의 보장률 검증: 영역별 불균형과 Mondrian CP 기반 해소 · **제1저자**  
-  [수상 목록](https://conf.kics.or.kr/2026f/supportInform#best)
-- **2026.09.21** 공공데이터 활용 공모전 **우수상(대전권대학 산학협의체 회장상)**
 - **2026.08.09** KDD 2026 UDM Workshop 구두발표 (제주)
-- **2026.06.17** 한국통신학회 **우수논문상**  
-  대규모 산업망의 QoS 보장을 위한 CVaR 기반 위험 민감 강화학습 라우팅 기법  
-  *동계종합학술발표회 발표 논문 · 하계종합학술발표회 시상* · [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?mno=sub07_0404&nttId=B000000167395Yn3yL7p)
+
 - **2026.06.17 ~ 2026.06.19** 한국통신학회 하계종합학술발표회 참가 (포스터 발표, 제주)
+
 - **2026.03.06** 데이터분석 준전문가(ADsP) 취득
+
 - **2026.02.05** 통신학회 아이디어 경진대회 참가  
   RL 기반 상황 인지형 적응형 시맨틱 전송 시스템
+
 - **2026.02.04 ~ 2026.02.06** 한국통신학회 동계종합학술발표회 참가 (포스터 발표)
+
 - **2026.01.21 ~ 2026.01.23** AAAI 2026 학회 참가
-- **2025.11.20** 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회 우수상  
-  `실시간 공정과정에서의 생성형 AI 기반 모니터링 서비스`  
-  [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000053/view.do?mno=sub07_0402&nttId=B000000161188Jw2pV3w)
-- **2025.10.16** 대전 창의적 종합설계 경진대회 장려상  
-  딥러닝 기반 딸기 숙성 분류 및 수확 자동화 로봇
+
 - **2025.07.07** 산학협력 프로젝트 참여  
   자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화
+
 - **2024.01 ~ 2024.07** 소프트웨어 중심대학 SW특강 3회 (코딩테스트·알고리즘·정보보안)
+
+</details>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>PaperRL</h3>
+<p>Hybrid digital twins and reinforcement learning for autonomous papermaking process control.</p>
+<sub>INDUSTRIAL CONTROL · DIGITAL TWINS</sub>
+</td>
+<td width="50%" valign="top">
+<h3>Industrial Monitoring Assistant</h3>
+<p>Operator support for document retrieval, real-time Q&amp;A, and process monitoring.</p>
+<sub>REACT · FASTAPI · RAG</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Strawberry Detection &amp; Harvesting</h3>
+<p>Vision-based ripeness estimation and a robotic harvesting pipeline for smart agriculture.</p>
+<sub>COMPUTER VISION · ROBOTICS</sub>
+</td>
+<td width="50%" valign="top">
+<h3>Robot Control Stack</h3>
+<p>Indy7 and OpenMANIPULATOR-X integration with Jetson Orin Nano and RealSense.</p>
+<sub>ROS · JETSON · REALSENSE</sub>
+</td>
+</tr>
+</table>
+
+## Toolbox
+
+**Learning** · Python, PyTorch, Gymnasium, Stable-Baselines3, d3rlpy, scikit-learn, XGBoost, LightGBM  
+**Data** · NumPy, Pandas, Matplotlib, Plotly  
+**Systems** · ROS, NVIDIA CUDA, Jetson, Intel RealSense, Git
 
 ---
 
-## 📫 Contact
-- Email: `bmw5779@o365.hanbat.ac.kr`
-- Google Scholar: [scholar.google.com/citations?user=ATNX478AAAAJ](https://scholar.google.com/citations?user=ATNX478AAAAJ&hl=ko)
+<p align="center"><a href="mailto:bmw5779@o365.hanbat.ac.kr">bmw5779@o365.hanbat.ac.kr</a> &nbsp; · &nbsp; Daejeon, Republic of Korea</p>

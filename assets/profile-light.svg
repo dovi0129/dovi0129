@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Minu Baek — Safe reinforcement learning for industrial systems</title>
+<desc id="desc">A conceptual feedback loop connects observation, policy, and action beside the researcher's name.</desc>
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#c5d8db" stroke-width=".6" opacity=".5"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="#f0f5f5"/>
+<rect x="740" width="460" height="320" rx="20" fill="url(#grid)"/>
+<path d="M48 45H84" stroke="#087e83" stroke-width="4"/>
+<text x="100" y="50" fill="#526b76" font-family="Arial,sans-serif" font-size="13" letter-spacing="2.4">RESEARCH / ENGINEERING</text>
+<text x="48" y="119" fill="#152c38" font-family="Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Minu Baek<tspan font-size="24" font-weight="400" letter-spacing="0" fill="#526b76" dx="20">백민우</tspan></text>
+<text x="50" y="175" fill="#152c38" font-family="Arial,sans-serif" font-size="29">Safe reinforcement learning</text>
+<text x="50" y="215" fill="#152c38" font-family="Arial,sans-serif" font-size="29">for industrial systems.</text>
+<text x="50" y="276" fill="#526b76" font-family="Arial,sans-serif" font-size="15">M.S. STUDENT · ECO AI LAB · HANBAT NATIONAL UNIVERSITY</text>
+<g font-family="Arial,sans-serif" font-size="12" text-anchor="middle">
+<path d="M820 135H1090V231H820Z" fill="none" stroke="#c5d8db" stroke-width="2"/>
+<path d="M820 135H1090V231" fill="none" stroke="#087e83" stroke-width="2"/>
+<path d="M1084 220L1090 231L1096 220M897 129L908 135L897 141" fill="none" stroke="#087e83" stroke-width="2"/>
+<rect x="774" y="111" width="94" height="48" rx="10" fill="#ffffff" stroke="#c5d8db"/>
+<rect x="908" y="111" width="94" height="48" rx="10" fill="#087e83"/>
+<rect x="1042" y="111" width="94" height="48" rx="10" fill="#ffffff" stroke="#c5d8db"/>
+<text x="821" y="140" fill="#152c38">OBSERVE</text><text x="955" y="140" fill="#f0f5f5" font-weight="700">POLICY</text><text x="1089" y="140" fill="#152c38">ACT</text>
+<rect x="908" y="211" width="94" height="39" rx="9" fill="#f0f5f5" stroke="#c5d8db"/>
+<text x="955" y="235" fill="#526b76">FEEDBACK</text>
+<circle cx="820" cy="231" r="5" fill="#087e83"/>
+<text x="955" y="77" fill="#526b76" letter-spacing="2">CLOSED-LOOP THINKING</text>
+</g></svg>
