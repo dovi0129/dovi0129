@@ -147,13 +147,11 @@ Yeojin Jang, **Minu Baek**, Gihun Gil, Minsung Jung, Beomdo Park, Woohyeon Kwon,
 
 ## Recognition
 
-| Year | Award |
-| :--- | :--- |
-| **2026** | **KICS 하계 우수논문상(포스터)** · 제1저자<br>Conformal Prediction 기반 제지공정 수분 예측 · [수상 목록](https://conf.kics.or.kr/2026f/supportInform#best) |
-| **2026.09.21** | **공공데이터 활용 공모전 우수상**<br>대전권대학 산학협의체 회장상 |
-| **2026.06.17** | **KICS 동계 발표 논문 우수논문상**<br>CVaR 기반 위험 민감 강화학습 라우팅 · 하계학회 시상 · [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?mno=sub07_0404&nttId=B000000167395Yn3yL7p) |
-| **2025.11.20** | **KICS 학부생 캡스톤디자인 경진대회 우수상**<br>생성형 AI 기반 공정 모니터링 서비스 · [수상 소식](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000053/view.do?mno=sub07_0402&nttId=B000000161188Jw2pV3w) |
-| **2025.10.16** | **대전 창의적 종합설계 경진대회 장려상**<br>딥러닝 기반 딸기 숙성 분류 및 수확 자동화 로봇 |
+- **2026** · [KICS 하계 우수논문상(포스터)](https://conf.kics.or.kr/2026f/supportInform#best)
+- **2026.09.21** · 공공데이터 활용 공모전 우수상
+- **2026.06.17** · [KICS 동계 우수논문상](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?mno=sub07_0404&nttId=B000000167395Yn3yL7p)
+- **2025.11.20** · [KICS 학부생 캡스톤디자인 경진대회 우수상](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000053/view.do?mno=sub07_0402&nttId=B000000161188Jw2pV3w)
+- **2025.10.16** · 대전 창의적 종합설계 경진대회 장려상
 
 <details>
 <summary>Activities & certifications</summary>
